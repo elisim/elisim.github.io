@@ -7,9 +7,17 @@ My interests are Time Series and Deep Learning. These days, I'm working on neuro
 In my free time, I like to practice Vipassana meditation 🙂
 
 # Blogs
+In the past year, I contributed to Time Series Transformers in 🤗 HuggingFace:
 
-TODO
+* Yes, Transformers are Effective for Time Series Forecasting (+ Autoformer) — by Eli Simhayev, Kashif Rasul and Niels Rogge.
+* Multivariate Probabilistic Time Series Forecasting with Informer — by Eli Simhayev, Kashif Rasul and Niels Rogge.
+
+## Medium
+* Creating Configurable Data Pre-Processing Pipelines by Combining Hydra and Sklearn — by Eli Simhayev & Benjamin Bodner.
+
+# Publications
+* PIVEN: A Deep Neural Network for Prediction Intervals with Specific Value Prediction — by Eli Simhayev, Gilad Katz and Lior Rokach.
 
 # Contact 
 
-You can contact me at (elisimhayev@gmail.com)[elisimhayev@gmail.com].
+You can contact me at elisimhayev@gmail.com.
