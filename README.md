@@ -6,6 +6,9 @@ My interests are Time Series and Deep Learning. These days, I'm working on neuro
 
 In my free time, I like to practice Vipassana meditation 🙂
 
+# Publications
+* [PIVEN: A Deep Neural Network for Prediction Intervals with Specific Value Prediction](https://arxiv.org/abs/2006.05139) — by Eli Simhayev, Gilad Katz and Lior Rokach.
+
 # Blogs
 In the past year, I contributed to Time Series Transformers in 🤗 Hugging Face:
 
@@ -14,9 +17,6 @@ In the past year, I contributed to Time Series Transformers in 🤗 Hugging Face
 
 ## Medium
 * [Creating Configurable Data Pre-Processing Pipelines by Combining Hydra and Sklearn](https://medium.com/beyondminds/creating-configurable-data-pre-processing-pipelines-by-combining-hydra-and-sklearn-812065c9ab64) — by Eli Simhayev & Benjamin Bodner.
-
-# Publications
-* [PIVEN: A Deep Neural Network for Prediction Intervals with Specific Value Prediction](https://arxiv.org/abs/2006.05139) — by Eli Simhayev, Gilad Katz and Lior Rokach.
 
 # Contact 
 
