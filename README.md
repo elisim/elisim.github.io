@@ -6,4 +6,4 @@ In my free time, I like to read about consciousness and the brain, and practice 
 
 # Contact 
 
-You can contact me at elisimhayev@gmail.com.
+You can contact me at (elisimhayev@gmail.com)[elisimhayev@gmail.com].
