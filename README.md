@@ -1,8 +1,14 @@
 # About
 
-Hi! My name is Eli Simhayev. I'm passionate about applied research and ML systems in large-scale. Programming & Machine Learning are important aspects of my personal life, as well as professional. They are what I love doing, creating, and learning about.
+Hey there! I'm Eli Simhayev.
 
-In my free time, I like to read about consciousness and the brain, and practice Vipassana meditation 🙂
+My interests are Time Series and Deep Learning. These days, I'm working on neuroscience, where I bring these two fields together. Before that, I worked as an ML Research Engineer at BeyondMinds, where my primary focus was Time Series analysis. I completed my M.Sc research at Ben-Gurion University, focusing on uncertainty estimation in deep learning. I'm passionate about applied research and ML systems on a big scale.
+
+In my free time, I like to practice Vipassana meditation 🙂
+
+# Blogs
+
+TODO
 
 # Contact 
 
