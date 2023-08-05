@@ -9,8 +9,8 @@ In my free time, I like to practice Vipassana meditation 🙂
 # Blogs
 In the past year, I contributed to Time Series Transformers in 🤗 HuggingFace:
 
-* Yes, Transformers are Effective for Time Series Forecasting (+ Autoformer) — by Eli Simhayev, Kashif Rasul and Niels Rogge.
-* Multivariate Probabilistic Time Series Forecasting with Informer — by Eli Simhayev, Kashif Rasul and Niels Rogge.
+* [Yes, Transformers are Effective for Time Series Forecasting (+ Autoformer)](https://huggingface.co/blog/autoformer) — by Eli Simhayev, Kashif Rasul and Niels Rogge.
+* [Multivariate Probabilistic Time Series Forecasting with Informer](https://huggingface.co/blog/informer) — by Eli Simhayev, Kashif Rasul and Niels Rogge.
 
 ## Medium
 * Creating Configurable Data Pre-Processing Pipelines by Combining Hydra and Sklearn — by Eli Simhayev & Benjamin Bodner.
