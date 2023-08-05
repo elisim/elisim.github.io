@@ -7,7 +7,7 @@ My interests are Time Series and Deep Learning. These days, I'm working on neuro
 In my free time, I like to practice Vipassana meditation 🙂
 
 # Blogs
-In the past year, I contributed to Time Series Transformers in 🤗 HuggingFace: foo
+In the past year, I contributed to Time Series Transformers in 🤗 Hugging Face:
 
 * [Yes, Transformers are Effective for Time Series Forecasting (+ Autoformer)](https://huggingface.co/blog/autoformer) — by Eli Simhayev, Kashif Rasul and Niels Rogge.
 * [Multivariate Probabilistic Time Series Forecasting with Informer](https://huggingface.co/blog/informer) — by Eli Simhayev, Kashif Rasul and Niels Rogge.
@@ -20,4 +20,5 @@ In the past year, I contributed to Time Series Transformers in 🤗 HuggingFace:
 
 # Contact 
 
-You can contact me at elisimhayev@gmail.com.
+You can contact me at [elisimhayev@gmail.com](mailto:elisimhayev@gmail.com).
+
