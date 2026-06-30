@@ -1,7 +1,8 @@
 # About
 
 Hey there! I'm Eli Simhayev.
-I enjoy learning about deep learning, biology, and neuroscience, and I have also been privileged to work in these fields.
+I enjoy learning about deep learning, biology, and neuroscience, and I have also been privileged to work in these fields. Most importantly, I like to combine AI research and engineering with ownership of model training and deployment.
+
 In my free time, I like to practice Vipassana meditation 🙂
 
 # Publications
